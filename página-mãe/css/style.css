@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #FD6BF7;
+}
+
+section h1{
+    color: #000000;
+    font-family: 'Love Light';
+    font-size: 64px;
+    line-height: 90px;
+    text-align: center;
+}
+
+section h2{
+    color: #000000;
+    font-family: 'Love Light';
+    font-size: 64px;
+    line-height: 90px;
+    text-align: center;
+}
+
+section h3{
+    color: #000000;
+    font-family: 'Love Light';
+    font-size: 64px;
+    line-height: 90px;
+    text-align: center;
+}
